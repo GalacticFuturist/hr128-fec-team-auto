@@ -1,0 +1,26 @@
+[
+    {
+        "packageName": "repo-1",
+        "seedScript": "db:seed",
+        "dbName": "dbName-1",
+        "url": "http://localhost:1111"
+    },
+    {
+        "packageName": "repo-2",
+        "seedScript": "db:setup",
+        "dbName": "dbName-2",
+        "url": "http://localhost:1111"
+    },
+    {
+        "packageName": "repo-3",
+        "seedScript": "db:seed",
+        "dbName": "dbName-3",
+        "url": "http://localhost:1111"
+    },
+    {
+        "packageName": "repo-4",
+        "seedScript": "db:setup",
+        "dbName": "dbName-4",
+        "url": "http://localhost:1111"
+    }
+]
